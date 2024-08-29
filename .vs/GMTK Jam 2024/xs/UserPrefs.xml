@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{A78A38D0-6E56-8F86-6082-BCDF830AC989}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/denis/Unity/GMTK Jam 2024/Assets/Scripts/PlayerManager.cs" relfile="Assets/Scripts/PlayerManager.cs" line="30" column="1" />
+      <Breakpoint file="/Users/denis/Unity/GMTK Jam 2024/Assets/Scripts/PlayerManager.cs" relfile="Assets/Scripts/PlayerManager.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FinishPoint.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Behaviour/AbstractBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CollisionState.cs" Line="54" Column="10" />
+      <File FileName="Assets/Scripts/Behaviour/Walk.cs" Line="35" Column="6" />
+      <File FileName="Assets/Scripts/Behaviour/FaceDirection.cs" />
+      <File FileName="Assets/Scripts/Behaviour/Jump.cs" Line="32" Column="37" />
+      <File FileName="Assets/Scripts/Behaviour/LongJump.cs" Line="35" Column="10" />
+      <File FileName="Assets/Scripts/BackLight.cs" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" />
+      <File FileName="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs" Line="29" Column="1" />
+      <File FileName="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs" Line="113" Column="1" />
+      <File FileName="Assets/Scripts/Camera/MyCamera.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/MenuManager/MainMenu.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/MenuManager/LevelSelector.cs" Line="26" Column="22" />
+      <File FileName="Assets/Sounds/ButtonFx.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/Sounds/SliderController.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/Sounds/AudioController.cs" Line="9" Column="16" />
+      <File FileName="Assets/Scripts/Inputs/InputState.cs" Line="62" Column="23" />
+      <File FileName="Assets/Scripts/Inputs/InputManager.cs" Line="5" Column="20" />
+      <File FileName="Assets/Scripts/Sounds/PlayerSounds.cs" Line="37" Column="1" />
+      <File FileName="Assets/Scripts/MenuManager/PauseMenu.cs" Line="27" Column="30" />
+      <File FileName="Assets/Scripts/MenuManager/WinMenu.cs" Line="39" Column="6" />
+      <File FileName="Assets/Scripts/FinishPoint.cs" Line="24" Column="37" />
+      <File FileName="Assets/Scripts/Behaviour/CharacterSize.cs" Line="44" Column="14" />
+      <File FileName="Assets/Scripts/MenuManager/DeathMenu.cs" Line="28" Column="30" />
+      <File FileName="Assets/Scripts/Behaviour/Death.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GMTK Jam 2024" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Behaviour" expanded="True" />
+                <Node name="Inputs" expanded="True" />
+                <Node name="MenuManager" expanded="True" />
+                <Node name="Sounds" expanded="True" />
+              </Node>
+              <Node name="Sounds" expanded="True" />
+              <Node name="TextMesh Pro" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="541009d9-8f6e-42ec-90ea-f916c22f8c0c" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
